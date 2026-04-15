@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.moon,
+.sun {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.moon {
+  background-color: #000;
+  color: #fff;
+}
+
+.sun {
+  background-color: #ffff00;
+}
